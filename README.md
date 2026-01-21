@@ -1,2 +1,2 @@
-# SCU-Lab
+# scu-lab
 Lab projects
